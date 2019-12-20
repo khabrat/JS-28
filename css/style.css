@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+html {
+	height: 100%;
+	
+	
+}
+body {
+	margin: 0 auto;
+    min-height: 100%;
+    font-size: 45px;
+    text-align: center;
+    padding: 50px;
+    
+    
+
+}
+.click_div {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 45px;
+    text-align: center;
+    padding: 50px;
+    background-color: #681686;
+}
+.focus {
+    width: 70%;
+}
